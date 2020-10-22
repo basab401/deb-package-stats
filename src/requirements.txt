@@ -1,0 +1,17 @@
+cffi==1.13.2
+Click==7.0
+cryptography==2.8
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+pycparser==2.19
+pyOpenSSL==19.1.0
+six==1.13.0
+Werkzeug==0.16.0
+dnspython==1.16.0
+pylint==2.3.1
+attrs==17.4.0
+pytest==3.3.2
+pytest-mock==1.7.1
+requests==2.18.4
+flake8==3.7.9
